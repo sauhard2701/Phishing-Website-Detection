@@ -1,4 +1,4 @@
-# Everlytics-ML-Test
+# Classification of Phishsing Websites
 
 ### Justifications of selected approach, tools and techniques
 <br>I have compared different classification models while predicting phishing websites rather than limiting myself to only one model. This gives us an idea about which model is best suited for a perticular requirements.
